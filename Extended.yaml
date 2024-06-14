@@ -1,17 +1,17 @@
 payload:
- - blogger.com
- - opensuse.org
- - solaireh3.com
- - tonec.com
- - metacubex.one
- - iknowwhatyoudownload.com
- - greencloudvps.com
- - drop.com
- - daumcdn.net
- - kitguru.net
- - bin.entware.net
- - besthdwallpaper.com
- - tftcentral.co.uk
- - spartanhost.org
- - www.myqnap.org
+ - '+.blogger.com'
+ - '+.opensuse.org'
+ - '+.solaireh3.com'
+ - '+.tonec.com'
+ - '+.metacubex.one'
+ - '+.iknowwhatyoudownload.com'
+ - '+.greencloudvps.com'
+ - '+.drop.com'
+ - '+.daumcdn.net'
+ - '+.kitguru.net'
+ - '+.entware.net'
+ - '+.besthdwallpaper.com'
+ - '+.tftcentral.co.uk'
+ - '+.spartanhost.org'
+ - '+.myqnap.org'
  
