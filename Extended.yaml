@@ -1,4 +1,6 @@
 payload:
+ - '+.tidal.com'
+ - '+.sentry.io'
  - '+.greenmangaming.com'
  - '+.artisan-jp.com'
  - '+.longmabook.com'
