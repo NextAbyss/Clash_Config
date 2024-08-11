@@ -1,4 +1,5 @@
 payload:
+ - '+.hysteria.network'
  - '+.tidal.com'
  - '+.sentry.io'
  - '+.squareup.com'
