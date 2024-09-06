@@ -1,0 +1,56 @@
+#微软更新目录(Update Catalog)补丁下载
+ - '+.catalog.sf.dl.delivery.mp.microsoft.com'	
+#Edge扩展下载
+ - '+.msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com'
+#Windows/Surface/VS 镜像下载
+ - '+.catalog.sf.dl.delivery.mp.microsoft.com'
+ - '+.download.prss.microsoft.com'
+#Rewards
+ - '+.rewards.bing.com'
+#Teams访问
+ - '+.teams.microsoft.com'
+ - '+.config.teams.microsoft.com'
+ - '+.presence.teams.live.com'
+ - '+.msgapi.teams.live.com'
+ - '+.statics.teams.cdn.office.net'
+#Office在线安装
+ - '+.officecdn.microsoft.com'
+#Office相关
+ - '+.sharepoint.com'
+#Outlook
+ - '+.outlook.office.com'
+ - '+.outlook.office365.com'
+ - '+.hotmail.com'
+#SmartScreen
+ - '+.smartscreen.microsoft.com'
+#Bing
+ - '+.bing.com'
+ - '+.bingapis.com'
+#Edge扩展/翻译
+ - '+.edge.microsoft.com'
+#OneDrive下载(网页/单文件)
+ - '+.public.bn.files.1drv.com'
+#商店/Xbox App下载地址读取(解决0x87e00005)
+ - '+.packagespc.xboxlive.com'
+#商店/Xbox App下载地址读取(解决0x80240437,0x80240438)
+ - '+.fe3cr.delivery.mp.microsoft.com'
+#商店/Xbox App应用信息获取(解决0x00000001)
+ - '+.displaycatalog.mp.microsoft.com'
+#Xbox下载
+ - '+.assets1.xboxlive.cn'
+ - '+.assets2.xboxlive.cn'
+ - '+.dl.delivery.mp.microsoft.com'
+ - '+.tlu.dl.delivery.mp.microsoft.com'
+#Xbox下载国外(Hosts)
+ - '+.xvcf1.xboxlive.com'
+ - '+.xvcf2.xboxlive.com'
+ - '+.assets1.xboxlive.com'
+ - '+.assets2.xboxlive.com'
+#MSN??
+ - '+.msn.cn'
+ - '+.msn.com'
+#???
+ - '+.1drv.ms'
+ - '+.yammer.com'
+ - '+.virtualearth.net'
+ - '+.visualstudio.com'
