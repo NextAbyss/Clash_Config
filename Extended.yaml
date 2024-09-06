@@ -1,4 +1,20 @@
 payload:
+ ##++Paradox++##
+ - '+.zendesk.com'
+ - '+.zdassets.com'
+ - '+.images.ctfassets.net'
+ - '+.paradoxlaza.com'
+ - '+.paradoxwikis.com'
+ - '+.paradoxinteractive.com'
+ - '+.paradox-interactive.com'
+ ##--Paradox--##
+ ##++Discord++##
+ - '+.discord.gg'
+ - '+.discord.com'
+ - '+.discordcdn.com'
+ - '+.discordapp.com'
+ - '+.discordapp.net'
+ ##--Discord--##
  ##++罗技++##
  - '+.logi.com'
  - '+.logitech.io'
@@ -8,6 +24,7 @@ payload:
  - '+.hysteria.network'
  ##Tidal##
  - '+.tidal.com'
+ - '+.hcaptcha.com'
  - '+.sentry.io'
  - '+.squareup.com'
  - '+.ctfassets.net'
