@@ -1,4 +1,6 @@
 payload:
+ - '+.wemod.com'  #Wemod
+ - '+.greenmangaming.com'  #小绿人商店
  - '+.deepl.com'  #Deepl翻译
  - '+.stratz.com'  #Stratz
  - '+.tidal.com'  #Tidal
@@ -117,7 +119,6 @@ payload:
  - '+.grimler.se'
  - '+.greasyfork.org'
  - '+.assrt.net'
- - '+.wemod.com'
  - '+.amplitude.com'
  - '+.v2rayssr.com'
  - '+.nluug.nl'
