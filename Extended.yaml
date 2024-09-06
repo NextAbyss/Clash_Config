@@ -1,6 +1,12 @@
 payload:
+ - '+.nexusmods.com'  #Nexusmods <=20M
+ - '+.nexus-cdn.com'  #Nexusmods >20M
  - '+.wemod.com'  #Wemod
  - '+.greenmangaming.com'  #小绿人商店
+ - '+.zendesk.com'  #Humblebundle
+ - '+.zdassets.com'  #Humblebundle
+ - '+.hb.imgix.net'  #Humblebundle
+ - '+.humblebundle.com'  #Humblebundle
  - '+.deepl.com'  #Deepl翻译
  - '+.stratz.com'  #Stratz
  - '+.tidal.com'  #Tidal
