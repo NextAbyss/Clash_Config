@@ -1,5 +1,12 @@
 payload:
+ ##++罗技++##
+ - '+.logi.com'
+ - '+.logitech.io'
+ - '+.logitech.com'
+ - '+.logitechg.com'
+ ##--罗技--##
  - '+.hysteria.network'
+ ##Tidal##
  - '+.tidal.com'
  - '+.sentry.io'
  - '+.squareup.com'
