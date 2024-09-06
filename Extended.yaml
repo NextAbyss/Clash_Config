@@ -1,4 +1,7 @@
 payload:
+ - '+.deepl.com'  #Deepl翻译
+ - '+.stratz.com'  #Stratz
+ - '+.tidal.com'  #Tidal
  ##++Paradox++##
  - '+.zendesk.com'
  - '+.zdassets.com'
@@ -22,8 +25,6 @@ payload:
  - '+.logitechg.com'
  ##--罗技--##
  - '+.hysteria.network'
- ##Tidal##
- - '+.tidal.com'
  - '+.hcaptcha.com'
  - '+.sentry.io'
  - '+.squareup.com'
