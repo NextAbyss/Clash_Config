@@ -19,6 +19,10 @@ payload:
  - '+.imdb.com'  #IMDB
  - '+.imdb.to'  #IMDB
  - '+.media-imdb.com'  #IMDB
+ - '+.live-patreon-marketing.pantheonsite.io'  #Patreon
+ - '+.patreon.com'  #Patreon
+ - '+.patreoncommunity.com'  #Patreon
+ - '+.patreonusercontent.com'  #Patreon
  ##++Oracle++##
  - '+.a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com'
  - '+.addthis.com'
