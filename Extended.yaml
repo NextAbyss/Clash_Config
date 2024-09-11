@@ -15,6 +15,24 @@ payload:
  - '+.deezer.com'  #Deezer
  - '+.dzcdn.net'  #Deezer
  - '+.tidal.com'  #Tidal
+ - '+.boxofficemojo.com'  #IMDB
+ - '+.imdb.com'  #IMDB
+ - '+.imdb.to'  #IMDB
+ - '+.media-imdb.com'  #IMDB
+ ##++JetBrains++##
+ - '+.datalore.io'
+ - '+.grazie.ai'
+ - '+.intellij.com'
+ - '+.intellij.net'
+ - '+.intellij.org'
+ - '+.jetbrains.com'
+ - '+.jetbrains.net'
+ - '+.jetbrains.org'
+ - '+.jetbrains.space'
+ - '+.jetbrains.team'
+ - '+.kotlinconf.com'
+ - '+.kotlinlang.org'
+ ##--JetBrains--##
  ##++DropBox++##
  - '+.db.tt'
  - '+.dropbox-dns.com'
