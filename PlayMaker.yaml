@@ -1,4 +1,9 @@
 payload:
+##++Instagram++##
+ - '+.cdninstagram.com
+ - '+.instagr.am
+ - '+.instagram.com
+##--Instagram--##
 ##++Tumblr++##
  - '+.tmblr.co'
  - '+.tumblr.co'
