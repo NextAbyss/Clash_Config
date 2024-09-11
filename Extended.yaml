@@ -12,7 +12,28 @@ payload:
  - '+.humblebundle.com'  #Humblebundle
  - '+.deepl.com'  #Deepl翻译
  - '+.stratz.com'  #Stratz
+ - '+.deezer.com'  #Deezer
+ - '+.dzcdn.net'  #Deezer
  - '+.tidal.com'  #Tidal
+ ##++DropBox++##
+ - '+.db.tt'
+ - '+.dropbox-dns.com'
+ - '+.dropbox.com'
+ - '+.dropbox.tech'
+ - '+.dropbox.zendesk.com'
+ - '+.dropboxapi.com'
+ - '+.dropboxbusiness.com'
+ - '+.dropboxcaptcha.com'
+ - '+.dropboxforum.com'
+ - '+.dropboxforums.com'
+ - '+.dropboxinsiders.com'
+ - '+.dropboxmail.com'
+ - '+.dropboxpartners.com'
+ - '+.dropboxstatic.com'
+ - '+.dropboxusercontent.com'
+ - '+.getdropbox.com'
+ - '+.paper-attachments.s3.amazonaws.com'
+ ##--DropBox--##
  ##++BestBuy++##
  - '+.bbycloud.com'
  - '+.bbycontent.com'
