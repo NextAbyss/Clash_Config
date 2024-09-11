@@ -1,4 +1,19 @@
 payload:
+##++Tumblr++##
+ - '+.tmblr.co'
+ - '+.tumblr.co'
+ - '+.tumblr.com'
+##--Tumblr--##
+##++Twitch++##
+ - '+.ext-twitch.tv'
+ - '+.jtvnw.net'
+ - '+.live-video.net'
+ - '+.ttvnw.net'
+ - '+.twitch-ext.rootonline.de'
+ - '+.twitch.tv'
+ - '+.twitchcdn.net'
+ - '+.twitchsvc.net'
+##--Twitch--##
 ##++Youtube++##
  - '+.ggpht.cn'
  - '+.ggpht.com'
