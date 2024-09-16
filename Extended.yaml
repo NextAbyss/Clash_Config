@@ -1,4 +1,6 @@
 payload:
+ - '+.zerotier.com'  #Zerotier
+ - '+.mpyit.com'  #殁漂遥
  - '+.banana-pi.org'  #Banana Pi Offical Website
  - '+.windd.info'  #Dynamic Wallpaper
  - '+.cybermania.ws'  #CyberMania Crack
