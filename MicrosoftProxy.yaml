@@ -1,88 +1,88 @@
 payload:
 #短链接
- - DOMAIN-SUFFIX,aka.ms
+ - '+.aka.ms'
 #微软反馈中心
- - DOMAIN-SUFFIX,uif.microsoft.com
+ - '+.uif.microsoft.com'
 #Teams静态资源
- - DOMAIN-SUFFIX,statics.teams.cdn.live.net
+ - '+.statics.teams.cdn.live.net'
 #Office 在线查看
- - DOMAIN-SUFFIX,officeapps.live.com
+ - '+.officeapps.live.com'
 #微软支持社区(Answers)
- - DOMAIN-SUFFIX,answers.microsoft.com
+ - '+.answers.microsoft.com'
 #Edge新建标签页
- - DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
- - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+ - '+.img-prod-cms-rt-microsoft-com.akamaized.net'
+ - '+.img-s-msn-com.akamaized.net'
 #翻译
- - DOMAIN-SUFFIX,api.cognitive.microsofttranslator.com
+ - '+.api.cognitive.microsofttranslator.com'
 #微软账户管理
- - DOMAIN-SUFFIX,login.live.com
- - DOMAIN-SUFFIX,account.microsoft.com
- - DOMAIN-SUFFIX,logincdn.msauth.net
- - DOMAIN-SUFFIX,aadcdn.msftauth.net
- - DOMAIN-SUFFIX,acctcdn.msauth.net
- - DOMAIN-SUFFIX,acctcdn.msftauth.net
- - DOMAIN-SUFFIX,amcdn.msftauth.net
- - DOMAIN-SUFFIX,alcdn.msftauth.net
- - DOMAIN-SUFFIX,ccscdn.msftauth.net
- - DOMAIN-SUFFIX,login.microsoftonline.com
+ - '+.login.live.com'
+ - '+.account.microsoft.com'
+ - '+.logincdn.msauth.net'
+ - '+.aadcdn.msftauth.net'
+ - '+.acctcdn.msauth.net'
+ - '+.acctcdn.msftauth.net'
+ - '+.amcdn.msftauth.net'
+ - '+.alcdn.msftauth.net'
+ - '+.ccscdn.msftauth.net'
+ - '+.login.microsoftonline.com'
 #微软授权验证
- - DOMAIN-SUFFIX,licensing.mp.microsoft.com
+ - '+.licensing.mp.microsoft.com'
 #XBOX XSTS(第三方游戏登录令牌验证)
- - DOMAIN-SUFFIX,xsts.auth.xboxlive.com
+ - '+.xsts.auth.xboxlive.com'
 #Xbox.com 网页相关
- - DOMAIN-SUFFIX,www.xbox.com
- - DOMAIN-SUFFIX,assets.xbox.com
- - DOMAIN-SUFFIX,assets-www.xbox.com
- - DOMAIN-SUFFIX,compass-ssl.xbox.com
+ - '+.www.xbox.com'
+ - '+.assets.xbox.com'
+ - '+.assets-www.xbox.com'
+ - '+.compass-ssl.xbox.com'
 #Xbox Live相关
- - DOMAIN-SUFFIX,editorial.xboxlive.com
- - DOMAIN-SUFFIX,peoplehub.xboxlive.com
- - DOMAIN-SUFFIX,rta.xboxlive.com
- - DOMAIN-SUFFIX,images-eds-ssl.xboxlive.com
- - DOMAIN-SUFFIX,gameclipscontent-d2009.xboxlive.com
- - DOMAIN-SUFFIX,xboxcare.xboxlive.com
- - DOMAIN-SUFFIX,titlehub.xboxlive.com
- - DOMAIN-SUFFIX,activityhub.xboxlive.com
- - DOMAIN-SUFFIX,xnotify.xboxlive.com
- - DOMAIN-SUFFIX,xforgeassets001.xboxlive.com
- - DOMAIN-SUFFIX,xforgeassets002.xboxlive.com
- - DOMAIN-SUFFIX,images-eds.xboxlive.com
- - DOMAIN-SUFFIX,xbl-smooth.xboxlive.com
- - DOMAIN-SUFFIX,compass.xboxlive.com
- - DOMAIN-SUFFIX,titlehub.xboxlive.com
- - DOMAIN-SUFFIX,gameclipscontent-d2009.xboxlive.com
+ - '+.editorial.xboxlive.com'
+ - '+.peoplehub.xboxlive.com'
+ - '+.rta.xboxlive.com'
+ - '+.images-eds-ssl.xboxlive.com'
+ - '+.gameclipscontent-d2009.xboxlive.com'
+ - '+.xboxcare.xboxlive.com'
+ - '+.titlehub.xboxlive.com'
+ - '+.activityhub.xboxlive.com'
+ - '+.xnotify.xboxlive.com'
+ - '+.xforgeassets001.xboxlive.com'
+ - '+.xforgeassets002.xboxlive.com'
+ - '+.images-eds.xboxlive.com'
+ - '+.xbl-smooth.xboxlive.com'
+ - '+.compass.xboxlive.com'
+ - '+.titlehub.xboxlive.com'
+ - '+.gameclipscontent-d2009.xboxlive.com'
 #Xbox云同步
- - DOMAIN-SUFFIX,titlestorage.xboxlive.com
+ - '+.titlestorage.xboxlive.com'
 #Xbox App 首页游戏加载
- - DOMAIN-SUFFIX,catalog.gamepass.com
+ - '+.catalog.gamepass.com'
 #Xbox App游戏目录列表加载
- - DOMAIN-SUFFIX,beige.xboxservices.com
+ - '+.beige.xboxservices.com'
 #商店/Xbox图片，网页
- - DOMAIN-SUFFIX,store-images.s-microsoft.com
- - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+ - '+.store-images.s-microsoft.com'
+ - '+.storeedgefd.dsx.mp.microsoft.com'
 #Onenote同步
- - DOMAIN-SUFFIX,d.docs.live.net
- - DOMAIN-SUFFIX,contentsync.onenote.com
- - DOMAIN-SUFFIX,hierarchyapi.onenote.com
+ - '+.d.docs.live.net'
+ - '+.contentsync.onenote.com'
+ - '+.hierarchyapi.onenote.com'
 #Azure
- - DOMAIN-SUFFIX,azure.com
- - DOMAIN-SUFFIX,azure.net
- - DOMAIN-SUFFIX,azurerms.com
- - DOMAIN-SUFFIX,windowsazure.com
+ - '+.azure.com'
+ - '+.azure.net'
+ - '+.azurerms.com'
+ - '+.windowsazure.com'
 #不知道
- - DOMAIN-SUFFIX,cloudappsecurity.com
+ - '+.cloudappsecurity.com'
 #Skype
- - DOMAIN-SUFFIX,lync.com
- - DOMAIN-SUFFIX,skype.com
- - DOMAIN-SUFFIX,skypeforbusiness.com
+ - '+.lync.com'
+ - '+.skype.com'
+ - '+.skypeforbusiness.com'
 #??
- - DOMAIN-SUFFIX,sway.com
- - DOMAIN-SUFFIX,sway-cdn.com
- - DOMAIN-SUFFIX,sway-extensions.com
- - DOMAIN-SUFFIX,staffhub.ms
- - DOMAIN-SUFFIX,appcenter.ms
- - DOMAIN-SUFFIX,windows.com
- - DOMAIN-SUFFIX,windows.net
- - DOMAIN-SUFFIX,phonefactor.net
- - DOMAIN-SUFFIX,bzib.nelreports.net
- - DOMAIN-SUFFIX,deff.nelreports.net
+ - '+.sway.com'
+ - '+.sway-cdn.com'
+ - '+.sway-extensions.com'
+ - '+.staffhub.ms'
+ - '+.appcenter.ms'
+ - '+.windows.com'
+ - '+.windows.net'
+ - '+.phonefactor.net'
+ - '+.bzib.nelreports.net'
+ - '+.deff.nelreports.net'
