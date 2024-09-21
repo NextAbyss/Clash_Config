@@ -1,422 +1,422 @@
-
-payload:
- - DOMAIN-SUFFIX,geekhack.org  #GeekHack
- - DOMAIN-SUFFIX,spkeyboards.com  #SP Official Website
- - DOMAIN-SUFFIX,imgur.com  #imgur
- - DOMAIN-SUFFIX,zerotier.com  #Zerotier
- - DOMAIN-SUFFIX,mpyit.com  #殁漂遥
- - DOMAIN-SUFFIX,banana-pi.org  #Banana Pi Offical Website
- - DOMAIN-SUFFIX,windd.info  #Dynamic Wallpaper
- - DOMAIN-SUFFIX,cybermania.ws  #CyberMania Crack
- - DOMAIN-SUFFIX,nexusmods.com  #Nexusmods <=20M
- - DOMAIN-SUFFIX,nexus-cdn.com  #Nexusmods >20M
- - DOMAIN-SUFFIX,wemod.com  #Wemod
- - DOMAIN-SUFFIX,greenmangaming.com  #小绿人商店
- - DOMAIN-SUFFIX,zendesk.com  #Humblebundle
- - DOMAIN-SUFFIX,zdassets.com  #Humblebundle
- - DOMAIN-SUFFIX,hb.imgix.net  #Humblebundle
- - DOMAIN-SUFFIX,humblebundle.com  #Humblebundle
- - DOMAIN-SUFFIX,deepl.com  #Deepl翻译
- - DOMAIN-SUFFIX,stratz.com  #Stratz
- - DOMAIN-SUFFIX,deezer.com  #Deezer
- - DOMAIN-SUFFIX,dzcdn.net  #Deezer
- - DOMAIN-SUFFIX,tidal.com  #Tidal
- - DOMAIN-SUFFIX,boxofficemojo.com  #IMDB
- - DOMAIN-SUFFIX,imdb.com  #IMDB
- - DOMAIN-SUFFIX,imdb.to  #IMDB
- - DOMAIN-SUFFIX,media-imdb.com  #IMDB
- - DOMAIN-SUFFIX,live-patreon-marketing.pantheonsite.io  #Patreon
- - DOMAIN-SUFFIX,patreon.com  #Patreon
- - DOMAIN-SUFFIX,patreoncommunity.com  #Patreon
- - DOMAIN-SUFFIX,patreonusercontent.com  #Patreon
-static-qobuz.com
-quobuz.com
-qobuz.com
+'
+payload:'
+ - '+.geekhack.org'  #GeekHack
+ - '+.spkeyboards.com'  #SP Official Website
+ - '+.imgur.com'  #imgur
+ - '+.zerotier.com'  #Zerotier
+ - '+.mpyit.com'  #殁漂遥
+ - '+.banana-pi.org'  #Banana Pi Offical Website
+ - '+.windd.info'  #Dynamic Wallpaper
+ - '+.cybermania.ws'  #CyberMania Crack
+ - '+.nexusmods.com'  #Nexusmods <=20M
+ - '+.nexus-cdn.com'  #Nexusmods >20M
+ - '+.wemod.com'  #Wemod
+ - '+.greenmangaming.com'  #小绿人商店
+ - '+.zendesk.com'  #Humblebundle
+ - '+.zdassets.com'  #Humblebundle
+ - '+.hb.imgix.net'  #Humblebundle
+ - '+.humblebundle.com'  #Humblebundle
+ - '+.deepl.com'  #Deepl翻译
+ - '+.stratz.com'  #Stratz
+ - '+.deezer.com'  #Deezer
+ - '+.dzcdn.net'  #Deezer
+ - '+.tidal.com'  #Tidal
+ - '+.boxofficemojo.com'  #IMDB
+ - '+.imdb.com'  #IMDB
+ - '+.imdb.to'  #IMDB
+ - '+.media-imdb.com'  #IMDB
+ - '+.live-patreon-marketing.pantheonsite.io'  #Patreon
+ - '+.patreon.com'  #Patreon
+ - '+.patreoncommunity.com'  #Patreon
+ - '+.patreonusercontent.com'  #Patreon
+ - '+.static-qobuz.com'
+ - '+.quobuz.com'
+ - '+.qobuz.com'
 ##++Reddit++##
- - DOMAIN-SUFFIX,redd.it
- - DOMAIN-SUFFIX,reddit.com
- - DOMAIN-SUFFIX,redditmail.com
- - DOMAIN-SUFFIX,redditmedia.com
- - DOMAIN-SUFFIX,redditstatic.com
- - DOMAIN-SUFFIX,reddituploads.com
- - DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
- - DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+ - '+.redd.it'
+ - '+.reddit.com'
+ - '+.redditmail.com'
+ - '+.redditmedia.com'
+ - '+.redditstatic.com'
+ - '+.reddituploads.com'
+ - '+.reddituploads.com.cdn-cf.behance.net'
+ - '+.reddituploads.com.cdn-cf.dropbox.com'
 ##--Reddit--##
 ##++Python++##
- - DOMAIN-SUFFIX,pycon.org
- - DOMAIN-SUFFIX,pypa.io
- - DOMAIN-SUFFIX,pypi.io
- - DOMAIN-SUFFIX,pypi.org
- - DOMAIN-SUFFIX,python.org
- - DOMAIN-SUFFIX,pythonhosted.org
+ - '+.pycon.org'
+ - '+.pypa.io'
+ - '+.pypi.io'
+ - '+.pypi.org'
+ - '+.python.org'
+ - '+.pythonhosted.org'
 ##--Python--##
 ##++RARBG++##
- - DOMAIN-SUFFIX,dyncdn.me
- - DOMAIN-SUFFIX,proxyrarbg.org
- - DOMAIN-SUFFIX,rarbg.bypassed.org
- - DOMAIN-SUFFIX,rarbg.is
- - DOMAIN-SUFFIX,rarbg.link
- - DOMAIN-SUFFIX,rarbg.me
- - DOMAIN-SUFFIX,rarbg.to
- - DOMAIN-SUFFIX,rarbg.unblocked.vc
- - DOMAIN-SUFFIX,rarbgaccess.org
- - DOMAIN-SUFFIX,rarbgaccessed.org
- - DOMAIN-SUFFIX,rarbgget.org
- - DOMAIN-SUFFIX,rarbggo.org
- - DOMAIN-SUFFIX,rarbgmirror.com
- - DOMAIN-SUFFIX,rarbgmirror.org
- - DOMAIN-SUFFIX,rarbgmirror.xyz
- - DOMAIN-SUFFIX,rarbgproxy.org
- - DOMAIN-SUFFIX,rarbgprx.org
- - DOMAIN-SUFFIX,rarbgs.com
- - DOMAIN-SUFFIX,rarbgto.org
- - DOMAIN-SUFFIX,rarbgunblock.com
- - DOMAIN-SUFFIX,rarbgunblock.org
- - DOMAIN-SUFFIX,rarbgway.org
+ - '+.dyncdn.me'
+ - '+.proxyrarbg.org'
+ - '+.rarbg.bypassed.org'
+ - '+.rarbg.is'
+ - '+.rarbg.link'
+ - '+.rarbg.me'
+ - '+.rarbg.to'
+ - '+.rarbg.unblocked.vc'
+ - '+.rarbgaccess.org'
+ - '+.rarbgaccessed.org'
+ - '+.rarbgget.org'
+ - '+.rarbggo.org'
+ - '+.rarbgmirror.com'
+ - '+.rarbgmirror.org'
+ - '+.rarbgmirror.xyz'
+ - '+.rarbgproxy.org'
+ - '+.rarbgprx.org'
+ - '+.rarbgs.com'
+ - '+.rarbgto.org'
+ - '+.rarbgunblock.com'
+ - '+.rarbgunblock.org'
+ - '+.rarbgway.org'
 ##--RARBG--##
 ##++ProtonMail++##
- - DOMAIN-SUFFIX,pm.me
- - DOMAIN-SUFFIX,proton.me
- - DOMAIN-SUFFIX,protonmail.ch
- - DOMAIN-SUFFIX,protonmail.com
- - DOMAIN-SUFFIX,protonstatus.com
+ - '+.pm.me'
+ - '+.proton.me'
+ - '+.protonmail.ch'
+ - '+.protonmail.com'
+ - '+.protonstatus.com'
 ##--ProtonMail--##
 ##++Pixiv++##
- - DOMAIN-SUFFIX,booth.pm
- - DOMAIN-SUFFIX,fanbox.cc
- - DOMAIN-SUFFIX,pixiv.cat
- - DOMAIN-SUFFIX,pixiv.co.jp
- - DOMAIN-SUFFIX,pixiv.me
- - DOMAIN-SUFFIX,pixiv.net
- - DOMAIN-SUFFIX,pixiv.org
- - DOMAIN-SUFFIX,pximg.net
+ - '+.booth.pm'
+ - '+.fanbox.cc'
+ - '+.pixiv.cat'
+ - '+.pixiv.co.jp'
+ - '+.pixiv.me'
+ - '+.pixiv.net'
+ - '+.pixiv.org'
+ - '+.pximg.net'
 ##--Pixiv--##
 ##++Pixnet++##
- - DOMAIN-SUFFIX,pimg.tw
- - DOMAIN-SUFFIX,pixanalytics.com
- - DOMAIN-SUFFIX,pixfs.net
- - DOMAIN-SUFFIX,pixinsight.com.tw
- - DOMAIN-SUFFIX,pixnet.cc
- - DOMAIN-SUFFIX,pixnet.net
- - DOMAIN-SUFFIX,pixnet.pro
- - DOMAIN-SUFFIX,pixnet.tw
- - DOMAIN-SUFFIX,pixplug.in
+ - '+.pimg.tw'
+ - '+.pixanalytics.com'
+ - '+.pixfs.net'
+ - '+.pixinsight.com.tw'
+ - '+.pixnet.cc'
+ - '+.pixnet.net'
+ - '+.pixnet.pro'
+ - '+.pixnet.tw'
+ - '+.pixplug.in'
 ##--Pixnet--##
 ##++Pinterest++##
- - DOMAIN-SUFFIX,pinimg.com
- - DOMAIN-SUFFIX,pinterest.at
- - DOMAIN-SUFFIX,pinterest.ca
- - DOMAIN-SUFFIX,pinterest.ch
- - DOMAIN-SUFFIX,pinterest.cl
- - DOMAIN-SUFFIX,pinterest.co.kr
- - DOMAIN-SUFFIX,pinterest.co.uk
- - DOMAIN-SUFFIX,pinterest.com
- - DOMAIN-SUFFIX,pinterest.com.au
- - DOMAIN-SUFFIX,pinterest.com.mx
- - DOMAIN-SUFFIX,pinterest.de
- - DOMAIN-SUFFIX,pinterest.dk
- - DOMAIN-SUFFIX,pinterest.es
- - DOMAIN-SUFFIX,pinterest.fr
- - DOMAIN-SUFFIX,pinterest.ie
- - DOMAIN-SUFFIX,pinterest.it
- - DOMAIN-SUFFIX,pinterest.jp
- - DOMAIN-SUFFIX,pinterest.nl
- - DOMAIN-SUFFIX,pinterest.nz
- - DOMAIN-SUFFIX,pinterest.ph
- - DOMAIN-SUFFIX,pinterest.pt
- - DOMAIN-SUFFIX,pinterest.ru
- - DOMAIN-SUFFIX,pinterest.se
+ - '+.pinimg.com'
+ - '+.pinterest.at'
+ - '+.pinterest.ca'
+ - '+.pinterest.ch'
+ - '+.pinterest.cl'
+ - '+.pinterest.co.kr'
+ - '+.pinterest.co.uk'
+ - '+.pinterest.com'
+ - '+.pinterest.com.au'
+ - '+.pinterest.com.mx'
+ - '+.pinterest.de'
+ - '+.pinterest.dk'
+ - '+.pinterest.es'
+ - '+.pinterest.fr'
+ - '+.pinterest.ie'
+ - '+.pinterest.it'
+ - '+.pinterest.jp'
+ - '+.pinterest.nl'
+ - '+.pinterest.nz'
+ - '+.pinterest.ph'
+ - '+.pinterest.pt'
+ - '+.pinterest.ru'
+ - '+.pinterest.se'
 ##--Pinterest--##
  ##++Oracle++##
- - DOMAIN-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com
- - DOMAIN-SUFFIX,addthis.com
- - DOMAIN-SUFFIX,addthis.com.edgekey.net
- - DOMAIN-SUFFIX,addthiscdn.com
- - DOMAIN-SUFFIX,addthisedge.com
- - DOMAIN-SUFFIX,ateam-oracle.com
- - DOMAIN-SUFFIX,bluekai.com
- - DOMAIN-SUFFIX,bronto.com
- - DOMAIN-SUFFIX,covid19-rx.org
- - DOMAIN-SUFFIX,covid19rx.org
- - DOMAIN-SUFFIX,eloqua.com
- - DOMAIN-SUFFIX,eloquaeditors.com
- - DOMAIN-SUFFIX,eloquapreview.com
- - DOMAIN-SUFFIX,en25.com
- - DOMAIN-SUFFIX,java
- - DOMAIN-SUFFIX,java.com
- - DOMAIN-SUFFIX,java.net
- - DOMAIN-SUFFIX,oracle
- - DOMAIN-SUFFIX,oracle.com
- - DOMAIN-SUFFIX,oraclecloud.com
- - DOMAIN-SUFFIX,oraclefoundation.org
- - DOMAIN-SUFFIX,oracleimg.com
- - DOMAIN-SUFFIX,oracleinfinity.io
- - DOMAIN-SUFFIX,responsys.net
- - DOMAIN-SUFFIX,sun.com
+ - '+.a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com'
+ - '+.addthis.com'
+ - '+.addthis.com.edgekey.net'
+ - '+.addthiscdn.com'
+ - '+.addthisedge.com'
+ - '+.ateam-oracle.com'
+ - '+.bluekai.com'
+ - '+.bronto.com'
+ - '+.covid19-rx.org'
+ - '+.covid19rx.org'
+ - '+.eloqua.com'
+ - '+.eloquaeditors.com'
+ - '+.eloquapreview.com'
+ - '+.en25.com'
+ - '+.java'
+ - '+.java.com'
+ - '+.java.net'
+ - '+.oracle'
+ - '+.oracle.com'
+ - '+.oraclecloud.com'
+ - '+.oraclefoundation.org'
+ - '+.oracleimg.com'
+ - '+.oracleinfinity.io'
+ - '+.responsys.net'
+ - '+.sun.com'
  ##--Oracle--##
  ##++JetBrains++##
- - DOMAIN-SUFFIX,datalore.io
- - DOMAIN-SUFFIX,grazie.ai
- - DOMAIN-SUFFIX,intellij.com
- - DOMAIN-SUFFIX,intellij.net
- - DOMAIN-SUFFIX,intellij.org
- - DOMAIN-SUFFIX,jetbrains.com
- - DOMAIN-SUFFIX,jetbrains.net
- - DOMAIN-SUFFIX,jetbrains.org
- - DOMAIN-SUFFIX,jetbrains.space
- - DOMAIN-SUFFIX,jetbrains.team
- - DOMAIN-SUFFIX,kotlinconf.com
- - DOMAIN-SUFFIX,kotlinlang.org
+ - '+.datalore.io'
+ - '+.grazie.ai'
+ - '+.intellij.com'
+ - '+.intellij.net'
+ - '+.intellij.org'
+ - '+.jetbrains.com'
+ - '+.jetbrains.net'
+ - '+.jetbrains.org'
+ - '+.jetbrains.space'
+ - '+.jetbrains.team'
+ - '+.kotlinconf.com'
+ - '+.kotlinlang.org'
  ##--JetBrains--##
  ##++BestBuy++##
- - DOMAIN-SUFFIX,bbycloud.com
- - DOMAIN-SUFFIX,bbycontent.com
- - DOMAIN-SUFFIX,bbycontent.net
- - DOMAIN-SUFFIX,bbyintl.com
- - DOMAIN-SUFFIX,bbystatic.com
- - DOMAIN-SUFFIX,bbyurl.us
- - DOMAIN-SUFFIX,bestbhy.com
- - DOMAIN-SUFFIX,bestbuy-audio.com
- - DOMAIN-SUFFIX,bestbuy-communityrelations.com
- - DOMAIN-SUFFIX,bestbuy-giftcard.info
- - DOMAIN-SUFFIX,bestbuy-int.com
- - DOMAIN-SUFFIX,bestbuy-jobs.com
- - DOMAIN-SUFFIX,bestbuy.ca
- - DOMAIN-SUFFIX,bestbuy.com
- - DOMAIN-SUFFIX,bestbuy.com.mx
- - DOMAIN-SUFFIX,bestbuy.info
- - DOMAIN-SUFFIX,bestbuy24x7solutions.com
- - DOMAIN-SUFFIX,bestbuybusiness.com
- - DOMAIN-SUFFIX,bestbuybusinessadvantageaccount.com
- - DOMAIN-SUFFIX,bestbuycanada.ca
- - DOMAIN-SUFFIX,bestbuycanada.com
- - DOMAIN-SUFFIX,bestbuycanadaltd.ca
- - DOMAIN-SUFFIX,bestbuycharityclassic.com
- - DOMAIN-SUFFIX,bestbuycoffeemakers.com
- - DOMAIN-SUFFIX,bestbuyethics.com
- - DOMAIN-SUFFIX,bestbuyforbusiness.ca
- - DOMAIN-SUFFIX,bestbuygsm.com
- - DOMAIN-SUFFIX,bestbuyideax.com
- - DOMAIN-SUFFIX,bestbuyphotoworkshoptours.com
- - DOMAIN-SUFFIX,bestbuyrewards.com
- - DOMAIN-SUFFIX,bestbuyrewardzone.ca
- - DOMAIN-SUFFIX,bestbuys.com
- - DOMAIN-SUFFIX,bestbuysgeeksquad.com
- - DOMAIN-SUFFIX,bestbuysolutions.net
- - DOMAIN-SUFFIX,bestbuystores.com
- - DOMAIN-SUFFIX,bestbuytradein.com
- - DOMAIN-SUFFIX,bestbuyus.com
- - DOMAIN-SUFFIX,besztbuy.com
- - DOMAIN-SUFFIX,bextbuy.com
- - DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
- - DOMAIN-SUFFIX,cowboom.com
- - DOMAIN-SUFFIX,dealtree.org
- - DOMAIN-SUFFIX,futureshop.ca
- - DOMAIN-SUFFIX,geek-squad-support.com
- - DOMAIN-SUFFIX,geek-squad.net
- - DOMAIN-SUFFIX,geek-squad.org
- - DOMAIN-SUFFIX,geek-squads.net
- - DOMAIN-SUFFIX,geeksquad.ca
- - DOMAIN-SUFFIX,geeksquad.cc
- - DOMAIN-SUFFIX,geeksquad.com
- - DOMAIN-SUFFIX,geeksquad.net
- - DOMAIN-SUFFIX,geeksquad.tv
- - DOMAIN-SUFFIX,geeksquadcares.com
- - DOMAIN-SUFFIX,geeksquadcentral.com
- - DOMAIN-SUFFIX,geeksquadforums.com
- - DOMAIN-SUFFIX,geeksquadonline.com
- - DOMAIN-SUFFIX,geeksquadprotectionplan.org
- - DOMAIN-SUFFIX,geeksquadservices.org
- - DOMAIN-SUFFIX,geeksquadwebroot.org
- - DOMAIN-SUFFIX,gscanada.info
- - DOMAIN-SUFFIX,gsccdn.com
- - DOMAIN-SUFFIX,gslink.us
- - DOMAIN-SUFFIX,initproducts.com
- - DOMAIN-SUFFIX,magnoliaav.com.cn
- - DOMAIN-SUFFIX,mybestbuy.com
- - DOMAIN-SUFFIX,mybestbuyclaims.com
- - DOMAIN-SUFFIX,myrewardzone.com
- - DOMAIN-SUFFIX,myrz.com
- - DOMAIN-SUFFIX,onlinegeeksquad.com
- - DOMAIN-SUFFIX,pacifickitchenandhome.com
- - DOMAIN-SUFFIX,rocketfishproducts.com
- - DOMAIN-SUFFIX,techliquidators.com
- - DOMAIN-SUFFIX,tiendabestbuy.com
- - DOMAIN-SUFFIX,welcometobestbuy.ca
- - DOMAIN-SUFFIX,www-bestbuystores.com
+ - '+.bbycloud.com'
+ - '+.bbycontent.com'
+ - '+.bbycontent.net'
+ - '+.bbyintl.com'
+ - '+.bbystatic.com'
+ - '+.bbyurl.us'
+ - '+.bestbhy.com'
+ - '+.bestbuy-audio.com'
+ - '+.bestbuy-communityrelations.com'
+ - '+.bestbuy-giftcard.info'
+ - '+.bestbuy-int.com'
+ - '+.bestbuy-jobs.com'
+ - '+.bestbuy.ca'
+ - '+.bestbuy.com'
+ - '+.bestbuy.com.mx'
+ - '+.bestbuy.info'
+ - '+.bestbuy24x7solutions.com'
+ - '+.bestbuybusiness.com'
+ - '+.bestbuybusinessadvantageaccount.com'
+ - '+.bestbuycanada.ca'
+ - '+.bestbuycanada.com'
+ - '+.bestbuycanadaltd.ca'
+ - '+.bestbuycharityclassic.com'
+ - '+.bestbuycoffeemakers.com'
+ - '+.bestbuyethics.com'
+ - '+.bestbuyforbusiness.ca'
+ - '+.bestbuygsm.com'
+ - '+.bestbuyideax.com'
+ - '+.bestbuyphotoworkshoptours.com'
+ - '+.bestbuyrewards.com'
+ - '+.bestbuyrewardzone.ca'
+ - '+.bestbuys.com'
+ - '+.bestbuysgeeksquad.com'
+ - '+.bestbuysolutions.net'
+ - '+.bestbuystores.com'
+ - '+.bestbuytradein.com'
+ - '+.bestbuyus.com'
+ - '+.besztbuy.com'
+ - '+.bextbuy.com'
+ - '+.bienvenuechezbestbuy.ca'
+ - '+.cowboom.com'
+ - '+.dealtree.org'
+ - '+.futureshop.ca'
+ - '+.geek-squad-support.com'
+ - '+.geek-squad.net'
+ - '+.geek-squad.org'
+ - '+.geek-squads.net'
+ - '+.geeksquad.ca'
+ - '+.geeksquad.cc'
+ - '+.geeksquad.com'
+ - '+.geeksquad.net'
+ - '+.geeksquad.tv'
+ - '+.geeksquadcares.com'
+ - '+.geeksquadcentral.com'
+ - '+.geeksquadforums.com'
+ - '+.geeksquadonline.com'
+ - '+.geeksquadprotectionplan.org'
+ - '+.geeksquadservices.org'
+ - '+.geeksquadwebroot.org'
+ - '+.gscanada.info'
+ - '+.gsccdn.com'
+ - '+.gslink.us'
+ - '+.initproducts.com'
+ - '+.magnoliaav.com.cn'
+ - '+.mybestbuy.com'
+ - '+.mybestbuyclaims.com'
+ - '+.myrewardzone.com'
+ - '+.myrz.com'
+ - '+.onlinegeeksquad.com'
+ - '+.pacifickitchenandhome.com'
+ - '+.rocketfishproducts.com'
+ - '+.techliquidators.com'
+ - '+.tiendabestbuy.com'
+ - '+.welcometobestbuy.ca'
+ - '+.www-bestbuystores.com'
  ##--BestBuy--##
  ##++Paradox++##
- - DOMAIN-SUFFIX,zendesk.com
- - DOMAIN-SUFFIX,zdassets.com
- - DOMAIN-SUFFIX,images.ctfassets.net
- - DOMAIN-SUFFIX,paradoxlaza.com
- - DOMAIN-SUFFIX,paradoxwikis.com
- - DOMAIN-SUFFIX,paradoxinteractive.com
- - DOMAIN-SUFFIX,paradox-interactive.com
+ - '+.zendesk.com'
+ - '+.zdassets.com'
+ - '+.images.ctfassets.net'
+ - '+.paradoxlaza.com'
+ - '+.paradoxwikis.com'
+ - '+.paradoxinteractive.com'
+ - '+.paradox-interactive.com'
  ##--Paradox--##
  ##++Discord++##
- - DOMAIN-SUFFIX,discord.gg
- - DOMAIN-SUFFIX,discord.com
- - DOMAIN-SUFFIX,discordcdn.com
- - DOMAIN-SUFFIX,discordapp.com
- - DOMAIN-SUFFIX,discordapp.net
+ - '+.discord.gg'
+ - '+.discord.com'
+ - '+.discordcdn.com'
+ - '+.discordapp.com'
+ - '+.discordapp.net'
  ##--Discord--##
  ##++罗技++##
- - DOMAIN-SUFFIX,logi.com
- - DOMAIN-SUFFIX,logitech.io
- - DOMAIN-SUFFIX,logitech.com
- - DOMAIN-SUFFIX,logitechg.com
+ - '+.logi.com'
+ - '+.logitech.io'
+ - '+.logitech.com'
+ - '+.logitechg.com'
  ##--罗技--##
- - DOMAIN-SUFFIX,hysteria.network
- - DOMAIN-SUFFIX,hcaptcha.com
- - DOMAIN-SUFFIX,sentry.io
- - DOMAIN-SUFFIX,squareup.com
- - DOMAIN-SUFFIX,ctfassets.net
- - DOMAIN-SUFFIX,greenmangaming.com
- - DOMAIN-SUFFIX,artisan-jp.com
- - DOMAIN-SUFFIX,longmabook.com
- - DOMAIN-SUFFIX,dmit.io
- - DOMAIN-SUFFIX,engram.blue
- - DOMAIN-SUFFIX,necacom.net
- - DOMAIN-SUFFIX,linuxserver.io
- - DOMAIN-SUFFIX,cybenetics.com
- - DOMAIN-SUFFIX,gcore.com
- - DOMAIN-SUFFIX,blogger.com
- - DOMAIN-SUFFIX,opensuse.org
- - DOMAIN-SUFFIX,solaireh3.com
- - DOMAIN-SUFFIX,tonec.com
- - DOMAIN-SUFFIX,metacubex.one
- - DOMAIN-SUFFIX,iknowwhatyoudownload.com
- - DOMAIN-SUFFIX,greencloudvps.com
- - DOMAIN-SUFFIX,drop.com
- - DOMAIN-SUFFIX,daumcdn.net
- - DOMAIN-SUFFIX,kitguru.net
- - DOMAIN-SUFFIX,entware.net
- - DOMAIN-SUFFIX,besthdwallpaper.com
- - DOMAIN-SUFFIX,tftcentral.co.uk
- - DOMAIN-SUFFIX,spartanhost.org
- - DOMAIN-SUFFIX,myqnap.org
- - DOMAIN-SUFFIX,wvncc.edu
- - DOMAIN-SUFFIX,8wens.com
- - DOMAIN-SUFFIX,zasq.net
- - DOMAIN-SUFFIX,plati.market
- - DOMAIN-SUFFIX,gameguardian.net
- - DOMAIN-SUFFIX,lrepacks.ru
- - DOMAIN-SUFFIX,cyberbits.eu
- - DOMAIN-SUFFIX,netcologne.de
- - DOMAIN-SUFFIX,uwaterloo.ca
- - DOMAIN-SUFFIX,gwdg.de
- - DOMAIN-SUFFIX,mit.edu
- - DOMAIN-SUFFIX,kernel.org
- - DOMAIN-SUFFIX,pyyaml.org
- - DOMAIN-SUFFIX,lua.org
- - DOMAIN-SUFFIX,netfilter.org
- - DOMAIN-SUFFIX,fitgirl-repacks.site
- - DOMAIN-SUFFIX,mozilla.com
- - DOMAIN-SUFFIX,mozilla.net
- - DOMAIN-SUFFIX,mozilla.org
- - DOMAIN-SUFFIX,firefox.com
- - DOMAIN-SUFFIX,uhub.com
- - DOMAIN-SUFFIX,catbox.moe
- - DOMAIN-SUFFIX,calibre-ebook.com
- - DOMAIN-SUFFIX,soymilk.eu.org
- - DOMAIN-SUFFIX,wangchao.info
- - DOMAIN-SUFFIX,proton.me
- - DOMAIN-SUFFIX,nodeseek.com
- - DOMAIN-SUFFIX,sumingxs.com
- - DOMAIN-SUFFIX,haimalook.com
- - DOMAIN-SUFFIX,kocpc.com.tw
- - DOMAIN-SUFFIX,xda.app
- - DOMAIN-SUFFIX,rarbg.com
- - DOMAIN-SUFFIX,openbittorrent.com
- - DOMAIN-SUFFIX,torrent.eu.org
- - DOMAIN-SUFFIX,acg.rip
- - DOMAIN-SUFFIX,portswigger.net
- - DOMAIN-SUFFIX,flapi.cn
- - DOMAIN-SUFFIX,spotify.com
- - DOMAIN-SUFFIX,tsdm39.net
- - DOMAIN-SUFFIX,bingfeng.tw
- - DOMAIN-SUFFIX,t-ru.org
- - DOMAIN-SUFFIX,retracker.local
- - DOMAIN-SUFFIX,freedownloadmanager.org
- - DOMAIN-SUFFIX,mpc-hc.org
- - DOMAIN-SUFFIX,e-hentai.org
- - DOMAIN-SUFFIX,ehgt.org
- - DOMAIN-SUFFIX,hath.network
- - DOMAIN-SUFFIX,hetzner.cloud
- - DOMAIN-SUFFIX,hetzner.com
- - DOMAIN-SUFFIX,acer.com
- - DOMAIN-SUFFIX,appbox.co
- - DOMAIN-SUFFIX,appboxes.co
- - DOMAIN-SUFFIX,ko-video.com
- - DOMAIN-SUFFIX,uupdump.net
- - DOMAIN-SUFFIX,anime1.me
- - DOMAIN-SUFFIX,hanime1.me
- - DOMAIN-SUFFIX,onlyfans.com
- - DOMAIN-SUFFIX,stripe.com
- - DOMAIN-SUFFIX,bintray.com
- - DOMAIN-SUFFIX,grimler.se
- - DOMAIN-SUFFIX,greasyfork.org
- - DOMAIN-SUFFIX,assrt.net
- - DOMAIN-SUFFIX,amplitude.com
- - DOMAIN-SUFFIX,v2rayssr.com
- - DOMAIN-SUFFIX,nluug.nl
- - DOMAIN-SUFFIX,hijk.art
- - DOMAIN-SUFFIX,sharepoint.com
- - DOMAIN-SUFFIX,nexus-cdn.com
- - DOMAIN-SUFFIX,cherrymx.de
- - DOMAIN-SUFFIX,v2ex.com
- - DOMAIN-SUFFIX,bangumi.moe
- - DOMAIN-SUFFIX,webpkgcache.com
- - DOMAIN-SUFFIX,behance.net
- - DOMAIN-SUFFIX,station-drivers.com
- - DOMAIN-SUFFIX,hdd.by
- - DOMAIN-SUFFIX,rwth-aachen.de
- - DOMAIN-SUFFIX,earth.li
- - DOMAIN-SUFFIX,igorslab.de
- - DOMAIN-SUFFIX,eternallybored.org
- - DOMAIN-SUFFIX,nodejs.org
- - DOMAIN-SUFFIX,debian.org
- - DOMAIN-SUFFIX,openwrt.org
- - DOMAIN-SUFFIX,golang.org
- - DOMAIN-SUFFIX,debian.map.fastlydns.net
- - DOMAIN-SUFFIX,yuzu-emu.org
- - DOMAIN-SUFFIX,shuaito.one
- - DOMAIN-SUFFIX,banzhu123.net
- - DOMAIN-SUFFIX,tt1069.com
- - DOMAIN-SUFFIX,open.stealth.si
- - DOMAIN-SUFFIX,aptoide.com
- - DOMAIN-SUFFIX,rg-adguard.net
- - DOMAIN-SUFFIX,geeks3d.com
- - DOMAIN-SUFFIX,aida64.com
- - DOMAIN-SUFFIX,hostloc.com
- - DOMAIN-SUFFIX,yiyo.io
- - DOMAIN-SUFFIX,ednovas.me
- - DOMAIN-SUFFIX,fenda.cloud
- - DOMAIN-SUFFIX,sao.dog
- - DOMAIN-SUFFIX,openai.com
- - DOMAIN-SUFFIX,light.gg
- - DOMAIN-SUFFIX,sonymobile.com
- - DOMAIN-SUFFIX,teamspeak-services.com
- - DOMAIN-SUFFIX,tracker.opentrackr.org
- - DOMAIN-SUFFIX,exodus.desync.com
- - DOMAIN-SUFFIX,tracker.torrent.eu.org
- - DOMAIN-SUFFIX,telemetr.io
- - DOMAIN-SUFFIX,opencccapply.net
- - DOMAIN-SUFFIX,cccmypath.org
- - DOMAIN-SUFFIX,bray.tech
- - DOMAIN-SUFFIX,katfile.com
- - DOMAIN-SUFFIX,soundon.fm
- - DOMAIN-SUFFIX,box.kaspersky.com
- - DOMAIN-SUFFIX,ckk.ir
- - DOMAIN-SUFFIX,guru3d.com
- - DOMAIN-SUFFIX,kemono.su
- - DOMAIN-SUFFIX,v2ray-agent.com
- - DOMAIN-SUFFIX,nodeseek.com
- - DOMAIN-SUFFIX,stboy.net
- - DOMAIN-SUFFIX,sou-tong.xyz
- - DOMAIN-SUFFIX,gvdb.org
- - DOMAIN-SUFFIX,samsonvideo.tv
- - DOMAIN-SUFFIX,archive.today
- - DOMAIN-SUFFIX,agemys.com
- - DOMAIN-SUFFIX,videohelp.com
+ - '+.hysteria.network'
+ - '+.hcaptcha.com'
+ - '+.sentry.io'
+ - '+.squareup.com'
+ - '+.ctfassets.net'
+ - '+.greenmangaming.com'
+ - '+.artisan-jp.com'
+ - '+.longmabook.com'
+ - '+.dmit.io'
+ - '+.engram.blue'
+ - '+.necacom.net'
+ - '+.linuxserver.io'
+ - '+.cybenetics.com'
+ - '+.gcore.com'
+ - '+.blogger.com'
+ - '+.opensuse.org'
+ - '+.solaireh3.com'
+ - '+.tonec.com'
+ - '+.metacubex.one'
+ - '+.iknowwhatyoudownload.com'
+ - '+.greencloudvps.com'
+ - '+.drop.com'
+ - '+.daumcdn.net'
+ - '+.kitguru.net'
+ - '+.entware.net'
+ - '+.besthdwallpaper.com'
+ - '+.tftcentral.co.uk'
+ - '+.spartanhost.org'
+ - '+.myqnap.org'
+ - '+.wvncc.edu'
+ - '+.8wens.com'
+ - '+.zasq.net'
+ - '+.plati.market'
+ - '+.gameguardian.net'
+ - '+.lrepacks.ru'
+ - '+.cyberbits.eu'
+ - '+.netcologne.de'
+ - '+.uwaterloo.ca'
+ - '+.gwdg.de'
+ - '+.mit.edu'
+ - '+.kernel.org'
+ - '+.pyyaml.org'
+ - '+.lua.org'
+ - '+.netfilter.org'
+ - '+.fitgirl-repacks.site'
+ - '+.mozilla.com'
+ - '+.mozilla.net'
+ - '+.mozilla.org'
+ - '+.firefox.com'
+ - '+.uhub.com'
+ - '+.catbox.moe'
+ - '+.calibre-ebook.com'
+ - '+.soymilk.eu.org'
+ - '+.wangchao.info'
+ - '+.proton.me'
+ - '+.nodeseek.com'
+ - '+.sumingxs.com'
+ - '+.haimalook.com'
+ - '+.kocpc.com.tw'
+ - '+.xda.app'
+ - '+.rarbg.com'
+ - '+.openbittorrent.com'
+ - '+.torrent.eu.org'
+ - '+.acg.rip'
+ - '+.portswigger.net'
+ - '+.flapi.cn'
+ - '+.spotify.com'
+ - '+.tsdm39.net'
+ - '+.bingfeng.tw'
+ - '+.t-ru.org'
+ - '+.retracker.local'
+ - '+.freedownloadmanager.org'
+ - '+.mpc-hc.org'
+ - '+.e-hentai.org'
+ - '+.ehgt.org'
+ - '+.hath.network'
+ - '+.hetzner.cloud'
+ - '+.hetzner.com'
+ - '+.acer.com'
+ - '+.appbox.co'
+ - '+.appboxes.co'
+ - '+.ko-video.com'
+ - '+.uupdump.net'
+ - '+.anime1.me'
+ - '+.hanime1.me'
+ - '+.onlyfans.com'
+ - '+.stripe.com'
+ - '+.bintray.com'
+ - '+.grimler.se'
+ - '+.greasyfork.org'
+ - '+.assrt.net'
+ - '+.amplitude.com'
+ - '+.v2rayssr.com'
+ - '+.nluug.nl'
+ - '+.hijk.art'
+ - '+.sharepoint.com'
+ - '+.nexus-cdn.com'
+ - '+.cherrymx.de'
+ - '+.v2ex.com'
+ - '+.bangumi.moe'
+ - '+.webpkgcache.com'
+ - '+.behance.net'
+ - '+.station-drivers.com'
+ - '+.hdd.by'
+ - '+.rwth-aachen.de'
+ - '+.earth.li'
+ - '+.igorslab.de'
+ - '+.eternallybored.org'
+ - '+.nodejs.org'
+ - '+.debian.org'
+ - '+.openwrt.org'
+ - '+.golang.org'
+ - '+.debian.map.fastlydns.net'
+ - '+.yuzu-emu.org'
+ - '+.shuaito.one'
+ - '+.banzhu123.net'
+ - '+.tt1069.com'
+ - '+.open.stealth.si'
+ - '+.aptoide.com'
+ - '+.rg-adguard.net'
+ - '+.geeks3d.com'
+ - '+.aida64.com'
+ - '+.hostloc.com'
+ - '+.yiyo.io'
+ - '+.ednovas.me'
+ - '+.fenda.cloud'
+ - '+.sao.dog'
+ - '+.openai.com'
+ - '+.light.gg'
+ - '+.sonymobile.com'
+ - '+.teamspeak-services.com'
+ - '+.tracker.opentrackr.org'
+ - '+.exodus.desync.com'
+ - '+.tracker.torrent.eu.org'
+ - '+.telemetr.io'
+ - '+.opencccapply.net'
+ - '+.cccmypath.org'
+ - '+.bray.tech'
+ - '+.katfile.com'
+ - '+.soundon.fm'
+ - '+.box.kaspersky.com'
+ - '+.ckk.ir'
+ - '+.guru3d.com'
+ - '+.kemono.su'
+ - '+.v2ray-agent.com'
+ - '+.nodeseek.com'
+ - '+.stboy.net'
+ - '+.sou-tong.xyz'
+ - '+.gvdb.org'
+ - '+.samsonvideo.tv'
+ - '+.archive.today'
+ - '+.agemys.com'
+ - '+.videohelp.com'
