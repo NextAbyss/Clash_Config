@@ -1,40 +1,40 @@
 payload:
- - '+.mediafire.com'  #mediafire
+ - DOMAIN-SUFFIX,mediafire.com  #mediafire
 ##++OneDrive++##
- - '+.1drv.com'
- - '+.livefilestore.com'
- - '+.oneclient.sfx.ms'
- - '+.onedrive.com'
- - '+.onedrive.live.com'
- - '+.photos.live.com'
- - '+.sharepoint.com'
- - '+.sharepointonline.com'
- - '+.skydrive.wns.windows.com'
- - '+.spoprod-a.akamaihd.net'
- - '+.storage.live.com'
- - '+.storage.msn.com'
+ - DOMAIN-SUFFIX,1drv.com
+ - DOMAIN-SUFFIX,livefilestore.com
+ - DOMAIN-SUFFIX,oneclient.sfx.ms
+ - DOMAIN-SUFFIX,onedrive.com
+ - DOMAIN-SUFFIX,onedrive.live.com
+ - DOMAIN-SUFFIX,photos.live.com
+ - DOMAIN-SUFFIX,sharepoint.com
+ - DOMAIN-SUFFIX,sharepointonline.com
+ - DOMAIN-SUFFIX,skydrive.wns.windows.com
+ - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+ - DOMAIN-SUFFIX,storage.live.com
+ - DOMAIN-SUFFIX,storage.msn.com
 ##--OneDrive--##
 ##++MEGA++##
- - '+.mega.co.nz'
- - '+.mega.io'
- - '+.mega.nz'
+ - DOMAIN-SUFFIX,mega.co.nz
+ - DOMAIN-SUFFIX,mega.io
+ - DOMAIN-SUFFIX,mega.nz
 ##--MEGA--##
 ##++DropBox++##
- - '+.db.tt'
- - '+.dropbox-dns.com'
- - '+.dropbox.com'
- - '+.dropbox.tech'
- - '+.dropbox.zendesk.com'
- - '+.dropboxapi.com'
- - '+.dropboxbusiness.com'
- - '+.dropboxcaptcha.com'
- - '+.dropboxforum.com'
- - '+.dropboxforums.com'
- - '+.dropboxinsiders.com'
- - '+.dropboxmail.com'
- - '+.dropboxpartners.com'
- - '+.dropboxstatic.com'
- - '+.dropboxusercontent.com'
- - '+.getdropbox.com'
- - '+.paper-attachments.s3.amazonaws.com'
+ - DOMAIN-SUFFIX,db.tt
+ - DOMAIN-SUFFIX,dropbox-dns.com
+ - DOMAIN-SUFFIX,dropbox.com
+ - DOMAIN-SUFFIX,dropbox.tech
+ - DOMAIN-SUFFIX,dropbox.zendesk.com
+ - DOMAIN-SUFFIX,dropboxapi.com
+ - DOMAIN-SUFFIX,dropboxbusiness.com
+ - DOMAIN-SUFFIX,dropboxcaptcha.com
+ - DOMAIN-SUFFIX,dropboxforum.com
+ - DOMAIN-SUFFIX,dropboxforums.com
+ - DOMAIN-SUFFIX,dropboxinsiders.com
+ - DOMAIN-SUFFIX,dropboxmail.com
+ - DOMAIN-SUFFIX,dropboxpartners.com
+ - DOMAIN-SUFFIX,dropboxstatic.com
+ - DOMAIN-SUFFIX,dropboxusercontent.com
+ - DOMAIN-SUFFIX,getdropbox.com
+ - DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
  ##--DropBox--##
