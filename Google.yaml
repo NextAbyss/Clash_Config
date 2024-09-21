@@ -1,4 +1,5 @@
 payload:
+ - '+.googlezip.net'
  - '+.o.pki.goog'
  - '+.voice.telephony.goog'
  - '+.265.com'
