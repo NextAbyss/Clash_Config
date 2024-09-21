@@ -1,57 +1,57 @@
 payload:
 #微软更新目录(Update Catalog)补丁下载
- - '+.catalog.sf.dl.delivery.mp.microsoft.com'	
+ - DOMAIN-SUFFIX,catalog.sf.dl.delivery.mp.microsoft.com	
 #Edge扩展下载
- - '+.msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com'
+ - DOMAIN-SUFFIX,msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 #Windows/Surface/VS 镜像下载
- - '+.catalog.sf.dl.delivery.mp.microsoft.com'
- - '+.download.prss.microsoft.com'
+ - DOMAIN-SUFFIX,catalog.sf.dl.delivery.mp.microsoft.com
+ - DOMAIN-SUFFIX,download.prss.microsoft.com
 #Rewards
- - '+.rewards.bing.com'
+ - DOMAIN-SUFFIX,rewards.bing.com
 #Teams访问
- - '+.teams.microsoft.com'
- - '+.config.teams.microsoft.com'
- - '+.presence.teams.live.com'
- - '+.msgapi.teams.live.com'
- - '+.statics.teams.cdn.office.net'
+ - DOMAIN-SUFFIX,teams.microsoft.com
+ - DOMAIN-SUFFIX,config.teams.microsoft.com
+ - DOMAIN-SUFFIX,presence.teams.live.com
+ - DOMAIN-SUFFIX,msgapi.teams.live.com
+ - DOMAIN-SUFFIX,statics.teams.cdn.office.net
 #Office在线安装
- - '+.officecdn.microsoft.com'
+ - DOMAIN-SUFFIX,officecdn.microsoft.com
 #Office相关
- - '+.sharepoint.com'
+ - DOMAIN-SUFFIX,sharepoint.com
 #Outlook
- - '+.outlook.office.com'
- - '+.outlook.office365.com'
- - '+.hotmail.com'
+ - DOMAIN-SUFFIX,outlook.office.com
+ - DOMAIN-SUFFIX,outlook.office365.com
+ - DOMAIN-SUFFIX,hotmail.com
 #SmartScreen
- - '+.smartscreen.microsoft.com'
+ - DOMAIN-SUFFIX,smartscreen.microsoft.com
 #Bing
- - '+.bing.com'
- - '+.bingapis.com'
+ - DOMAIN-SUFFIX,bing.com
+ - DOMAIN-SUFFIX,bingapis.com
 #Edge扩展/翻译
- - '+.edge.microsoft.com'
+ - DOMAIN-SUFFIX,edge.microsoft.com
 #OneDrive下载(网页/单文件)
- - '+.public.bn.files.1drv.com'
+ - DOMAIN-SUFFIX,public.bn.files.1drv.com
 #商店/Xbox App下载地址读取(解决0x87e00005)
- - '+.packagespc.xboxlive.com'
+ - DOMAIN-SUFFIX,packagespc.xboxlive.com
 #商店/Xbox App下载地址读取(解决0x80240437,0x80240438)
- - '+.fe3cr.delivery.mp.microsoft.com'
+ - DOMAIN-SUFFIX,fe3cr.delivery.mp.microsoft.com
 #商店/Xbox App应用信息获取(解决0x00000001)
- - '+.displaycatalog.mp.microsoft.com'
+ - DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
 #Xbox下载
- - '+.assets1.xboxlive.cn'
- - '+.assets2.xboxlive.cn'
- - '+.dl.delivery.mp.microsoft.com'
- - '+.tlu.dl.delivery.mp.microsoft.com'
+ - DOMAIN-SUFFIX,assets1.xboxlive.cn
+ - DOMAIN-SUFFIX,assets2.xboxlive.cn
+ - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+ - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
 #Xbox下载国外(Hosts)
- - '+.xvcf1.xboxlive.com'
- - '+.xvcf2.xboxlive.com'
- - '+.assets1.xboxlive.com'
- - '+.assets2.xboxlive.com'
+ - DOMAIN-SUFFIX,xvcf1.xboxlive.com
+ - DOMAIN-SUFFIX,xvcf2.xboxlive.com
+ - DOMAIN-SUFFIX,assets1.xboxlive.com
+ - DOMAIN-SUFFIX,assets2.xboxlive.com
 #MSN??
- - '+.msn.cn'
- - '+.msn.com'
+ - DOMAIN-SUFFIX,msn.cn
+ - DOMAIN-SUFFIX,msn.com
 #???
- - '+.1drv.ms'
- - '+.yammer.com'
- - '+.virtualearth.net'
- - '+.visualstudio.com'
+ - DOMAIN-SUFFIX,1drv.ms
+ - DOMAIN-SUFFIX,yammer.com
+ - DOMAIN-SUFFIX,virtualearth.net
+ - DOMAIN-SUFFIX,visualstudio.com
