@@ -31,6 +31,7 @@ payload:
  - '+.static-qobuz.com'
  - '+.quobuz.com'
  - '+.qobuz.com'
+ - '+'.nyaa.si'
 ##++Reddit++##
  - '+.redd.it'
  - '+.reddit.com'
