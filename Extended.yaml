@@ -1,4 +1,8 @@
 payload:
+ - '+.hearthstonejson.com'  #HDT
+ - '+.hsdecktracker.net'  #HDT
+ - '+.hsreplay.net'  #HDT
+ - '+.untapped.gg'  #HDT
  - '+.voidtools.com'  #Everything
  - '+.beatport.com'  #Beatport
  - '+.geekhack.org'  #GeekHack
