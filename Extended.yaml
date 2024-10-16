@@ -3,6 +3,7 @@ payload:
  - '+.hsdecktracker.net'  #HDT
  - '+.hsreplay.net'  #HDT
  - '+.untapped.gg'  #HDT
+ - '+.imgur.com'  #imgur 要改成US Proxies
  - '+.voidtools.com'  #Everything
  - '+.beatport.com'  #Beatport
  - '+.geekhack.org'  #GeekHack
