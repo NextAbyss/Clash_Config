@@ -53,6 +53,7 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add ./Rules/*.json
+        git add ./Rules/*.txt
         #git add ./Rules/*.srs
 
         # 检查是否有文件被修改
