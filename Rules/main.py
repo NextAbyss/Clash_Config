@@ -26,9 +26,9 @@ def convert_to_json(domains):
     }
     return result
 
-# 文件路径
-#yaml_file_path = '/home/runner/work/Clash_Config/Clash_Config/Extended.yaml'
-#output_file_path = '/home/runner/work/Clash_Config/Clash_Config/rule/extended.json'
+#1 文件路径
+#1yaml_file_path = '/home/runner/work/Clash_Config/Clash_Config/Extended.yaml'
+#1output_file_path = '/home/runner/work/Clash_Config/Clash_Config/rule/extended.json'
 
 # 目录路径
 directory_path = '/home/runner/work/Clash_Config/Clash_Config'  # 修改为你的目录路径
@@ -47,7 +47,7 @@ for filename in file_names:
 
         # 生成输出 JSON 文件名
         json_filename = f"{os.path.splitext(filename)[0]}.json"
-        json_file_path = os.path.join('/home/runner/work/Clash_Config/Clash_Config/rule', json_filename)
+        json_file_path = os.path.join('/home/runner/work/Clash_Config/Clash_Config/Rules', json_filename)
 
         # 将结果保存到新文件
         with open(json_file_path, 'w') as output_file:
