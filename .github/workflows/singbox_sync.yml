@@ -1,4 +1,4 @@
-name: Config Update
+name: Sing-Box Config Update
 
 on:
   push:
