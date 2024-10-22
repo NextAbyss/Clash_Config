@@ -45,7 +45,8 @@ jobs:
         fi
     - name: Convert AdGuard DNS Filter to sing-box rule set
       run: |
-        sing-box rule-set convert --type adguard --output ./rule/adservers.srs ./rule/adservers.txt
+         ls -al
+        #sing-box rule-set convert --type adguard --output ./rule/adservers.srs ./rule/adservers.txt
     - name: Run script
       run: python ../main.py
       working-directory: ./rule/
