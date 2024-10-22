@@ -25,8 +25,8 @@ def convert_to_json(domains):
     return result
 
 # 文件路径
-yaml_file_path = './Extended.yaml'
-output_file_path = './rule/extended.json'
+yaml_file_path = '/home/runner/work/Clash_Config/Clash_Config/Extended.yaml'
+output_file_path = '/home/runner/work/Clash_Config/Clash_Config/rule/extended.json'
 
 # 提取域名并转换为 JSON
 domains = extract_domains(yaml_file_path)
