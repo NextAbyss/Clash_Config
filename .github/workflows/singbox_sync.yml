@@ -33,8 +33,6 @@ jobs:
         URL="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt"
         OUTPUT_FILE="./rule/adservers.txt"
 
-        curl -L https://raw.githubusercontent.com/NextAbyss/Clash_Config/refs/heads/release/Extended.yaml -o ./rule/extended.yaml
-
         curl -L $URL -o $OUTPUT_FILE
 
         if [ -f "$OUTPUT_FILE" ]; then
