@@ -25,8 +25,8 @@ def convert_to_json(domains):
     return result
 
 # 文件路径
-yaml_file_path = '/root/ex1.yaml'
-output_file_path = '/root/exs1.json'
+yaml_file_path = '$GITHUB_WORKSPACE/rule/extended.yaml'
+output_file_path = '$GITHUB_WORKSPACE/rule/extended.json'
 
 # 提取域名并转换为 JSON
 domains = extract_domains(yaml_file_path)
