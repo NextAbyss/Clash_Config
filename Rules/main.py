@@ -17,7 +17,7 @@ def extract_domains(yaml_file):
 
 def convert_to_json(domains):
     result = {
-        "version": 1,
+        "version": 2,
         "rules": [
             {
                 "domain_suffix": domains
