@@ -46,7 +46,7 @@ jobs:
          ls -al
         #sing-box rule-set convert --type adguard --output ./rule/adservers.srs ./rule/adservers.txt
     - name: Run script
-      run: python ../main.py
+      run: python ../main.py Extended.yaml Google.yaml Git.yaml
       working-directory: ./rule/
     - name: Commit and push config.json
       run: |
