@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: "Setup sing-box"
       env:
-        SING_BOX_DEB_URL: "https://github.com/SagerNet/sing-box/releases/download/v1.10.0-alpha.27/sing-box_1.10.0-alpha.27_linux_amd64.deb"
+        SING_BOX_DEB_URL: "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box_v1.10.1_linux_amd64.deb"
       run: |
           set -Eeuo pipefail
           wget -O sing-box.deb $SING_BOX_DEB_URL
@@ -31,7 +31,7 @@ jobs:
     - name: Download content
       run: |
         URL="https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt"
-        OUTPUT_FILE="./rule/adservers.txt"
+        OUTPUT_FILE="./Rules/adservers.txt"
 
         curl -L $URL -o $OUTPUT_FILE
 
@@ -44,10 +44,10 @@ jobs:
     - name: Convert AdGuard DNS Filter to sing-box rule set
       run: |
          ls -al
-        #sing-box rule-set convert --type adguard --output ./rule/adservers.srs ./rule/adservers.txt
+         sing-box rule-set convert --type adguard --output ./Rules/adservers.srs ./Rules/adservers.txt
     - name: Run script
       run: python $GITHUB_WORKSPACE/Rules/main.py Extended.yaml Google.yaml Git.yaml
-      working-directory: ./rule/
+      working-directory: ./Rules/
     - name: Commit and push config.json
       run: |
         git config --global user.email "action@github.com"
