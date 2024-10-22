@@ -25,7 +25,7 @@ def convert_to_json(domains):
     return result
 
 # 文件路径
-yaml_file_path = './rule/extended.yaml'
+yaml_file_path = './Extended.yaml'
 output_file_path = './rule/extended.json'
 
 # 提取域名并转换为 JSON
