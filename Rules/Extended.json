@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "massgrave.dev",
+        "activated.win",
         "trksyln.net",
         "hearthstonejson.com",
         "hsdecktracker.net",
