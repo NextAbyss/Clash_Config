@@ -1,5 +1,6 @@
 payload:
 - '+.rathlev-home.de' #scoop innounp
+- '+.auth.d2xrx.xyz'
 - '+.massgrave.dev' #MAS
 - '+.activated.win' #MAS
 - '+.trksyln.net' #TGMacro
@@ -328,7 +329,6 @@ payload:
 - '+.uhub.com'
 - '+.catbox.moe'
 - '+.calibre-ebook.com'
-- '+.soymilk.eu.org'
 - '+.wangchao.info'
 - '+.proton.me'
 - '+.nodeseek.com'
