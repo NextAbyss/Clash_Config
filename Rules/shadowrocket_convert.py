@@ -5,6 +5,10 @@ import os
 def process_line(line):
     # 删除前缀 '- '+.' 和处理后缀
     domain = line.strip("'").lstrip("- '+.")
+    # 如果有注释部分（#后面的内容），就删除
+    domain = domain.split(' ')[0]
+    # 删除前缀 '- '+.' 和处理后缀
+    domain = line.strip("'").lstrip("- '+.")
     # 判断有多少个点来决定使用 DOMAIN 或 DOMAIN-SUFFIX
     if domain.count('.') == 1:
         processed_line = f"DOMAIN-SUFFIX,{domain},Proxy"
