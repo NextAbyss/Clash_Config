@@ -1,16 +1,18 @@
 import yaml
 import sys
+import os
 
 def is_root_domain(domain):
     # Check if the domain is a root domain (contains no dots other than the final dot in TLD)
     return domain.count('.') == 1
 
-def convert_multiple_yaml_to_domain_suffix(yaml_files, output_file):
+def convert_multiple_yaml_to_domain_suffix(yaml_files, output_file, directory_path):
     try:
         all_domains = []
 
         for yaml_file in yaml_files:
-            with open(yaml_file, 'r') as file:
+            full_path = os.path.join(directory_path, yaml_file)  # Construct full path
+            with open(full_path, 'r') as file:
                 data = yaml.safe_load(file)
 
                 # Extract and format the domains
@@ -34,12 +36,15 @@ def convert_multiple_yaml_to_domain_suffix(yaml_files, output_file):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage
+#目录路径
+directory_path = '/home/runner/work/Clash_Config/Clash_Config'
+
 if __name__ == "__main__":
+
     if len(sys.argv) < 3:
         print("Usage: python script.py <output_file> <input_file1> <input_file2> ...")
         sys.exit(1)
 
     output_file = sys.argv[1]
     input_files = sys.argv[2:]
-    convert_multiple_yaml_to_domain_suffix(input_files, output_file)
+    convert_multiple_yaml_to_domain_suffix(input_files, output_file, directory_path)
