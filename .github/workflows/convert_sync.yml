@@ -57,6 +57,7 @@ jobs:
         git config --global user.name "GitHub Action"
         git add ./Rules/*.json
         git add ./Rules/*.yaml
+        git add ./Rules/*.sgmodule
         git add ./Rules/*.txt
         #git add ./Rules/*.srs
 
