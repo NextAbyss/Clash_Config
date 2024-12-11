@@ -2,6 +2,7 @@
 #!desc=Extened自定义规则
 
 [Rule]
+DOMAIN-SUFFIX,bazzite.gg,PROXY
 DOMAIN-SUFFIX,rathlev-home.de,PROXY
 DOMAIN,auth.d2xrx.xyz,PROXY
 DOMAIN-SUFFIX,massgrave.dev,PROXY
