@@ -3,9 +3,9 @@ import sys
 
 def process_line(line):
     # 删除前缀 '- '+.' 和处理后缀
-    domain = line.strip().lstrip("- '+")
+    domain = line.strip("'").lstrip("- '+.")
     # 判断有多少个点来决定使用 DOMAIN 或 DOMAIN-SUFFIX
-    if domain.count('.') == 2:
+    if domain.count('.') == 1:
         processed_line = f"DOMAIN,{domain},Proxy"
     else:
         processed_line = f"DOMAIN-SUFFIX,{domain},Proxy"
