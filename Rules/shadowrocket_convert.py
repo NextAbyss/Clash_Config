@@ -47,6 +47,10 @@ def main(output_file, *input_files):
 
     # 写入输出文件
     with open(output_file, 'w') as outfile:
+        outfile.write("#!name=喵喵桑\n")
+        outfile.write("#!desc=Extened自定义规则\n")
+        outfile.write("\n[Rule]\n")
+        
         for line in all_results:
             outfile.write(line + "\n")
 
