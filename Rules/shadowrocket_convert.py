@@ -11,9 +11,9 @@ def process_line(line):
     domain = domain.strip("'").lstrip("+.")
     # 判断有多少个点来决定使用 DOMAIN 或 DOMAIN-SUFFIX
     if domain.count('.') == 1:
-        processed_line = f"DOMAIN-SUFFIX,{domain}"
+        processed_line = f"DOMAIN-SUFFIX,{domain},PROXY"
     else:
-        processed_line = f"DOMAIN,{domain}"
+        processed_line = f"DOMAIN,{domain},PROXY"
     return processed_line
 
 # 设置默认的输入目录路径
