@@ -49,7 +49,7 @@ jobs:
       run: python $GITHUB_WORKSPACE/Rules/singbox_convert.py Extended.yaml Google.yaml Git.yaml
       working-directory: ./Rules/
     - name: Run shadowrocket convert script
-      run: python $GITHUB_WORKSPACE/Rules/shadowrocket_convert.py $GITHUB_WORKSPACE/Rules/shadowrocket.yaml Extended.yaml Google.yaml Git.yaml PlayMaker.yaml
+      run: python $GITHUB_WORKSPACE/Rules/shadowrocket_convert.py $GITHUB_WORKSPACE/Rules/shadowrocket.sgmodule Extended.yaml Google.yaml Git.yaml PlayMaker.yaml
       working-directory: ./Rules/
     - name: Commit and push config
       run: |
