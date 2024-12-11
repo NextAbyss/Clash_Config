@@ -51,8 +51,8 @@ def process_yaml_file(file_path):
 # 将处理结果写入新文件（每个域名单独一行）
 def write_to_file(output_path, data):
     try:
-        # 将每个域名写入文件，每行一个
-        with open(output_path, 'w', encoding='utf-8') as file:
+        # 以追加模式将每个域名写入文件，每行一个
+        with open(output_path, 'a', encoding='utf-8') as file:
             for domain in data:
                 file.write(domain + '\n')
         print(f"处理结果已保存到 {output_path}")
@@ -78,7 +78,7 @@ def main():
         processed_domains = process_yaml_file(file_path)
         
         if processed_domains is not None:
-            # 将处理后的域名写入输出文件
+            # 将处理后的域名写入输出文件（以追加模式）
             write_to_file(output_file, processed_domains)
         else:
             print(f"文件 {file_path} 处理失败。")
