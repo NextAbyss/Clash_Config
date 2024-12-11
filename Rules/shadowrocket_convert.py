@@ -52,7 +52,7 @@ def process_yaml_file(file_path):
 def write_to_file(output_path, data):
     try:
         # 以追加模式将每个域名写入文件，每行一个
-        with open(output_path, 'a', encoding='utf-8') as file:
+        with open(output_path, 'a') as file:
             for domain in data:
                 file.write(domain + '\n')
         print(f"处理结果已保存到 {output_path}")
