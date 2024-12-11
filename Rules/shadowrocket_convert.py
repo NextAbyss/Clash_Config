@@ -3,7 +3,7 @@ import sys
 import os
 
 def is_root_domain(domain):
-    # Check if the domain is a root domain (contains no dots other than the final dot in TLD)
+    # A domain is considered a root domain if it contains exactly one dot
     return domain.count('.') == 1
 
 def convert_multiple_yaml_to_domain_suffix(yaml_files, output_file, directory_path):
@@ -18,7 +18,7 @@ def convert_multiple_yaml_to_domain_suffix(yaml_files, output_file, directory_pa
                 # Extract and format the domains
                 for item in data['payload']:
                     domain = item.strip("+-'")  # Remove prefixes, suffixes, and quotes
-                    if domain.startswith('.'):
+                    if domain.startswith('.'): 
                         domain = domain[1:]  # Remove leading dot
 
                     # Determine the format based on whether it's a root domain
@@ -35,8 +35,7 @@ def convert_multiple_yaml_to_domain_suffix(yaml_files, output_file, directory_pa
 
     except Exception as e:
         print(f"An error occurred: {e}")
-
-#目录路径
+        
 directory_path = '/home/runner/work/Clash_Config/Clash_Config'
 
 if __name__ == "__main__":
