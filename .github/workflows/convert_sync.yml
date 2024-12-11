@@ -46,10 +46,10 @@ jobs:
          ls -al
          sing-box rule-set convert --type adguard --output ./Rules/adservers.srs ./Rules/adservers.txt
     - name: Run singbox convert script
-      run: python $GITHUB_WORKSPACE/Rules/singbox_convert.py.py Extended.yaml Google.yaml Git.yaml
+      run: python $GITHUB_WORKSPACE/Rules/singbox_convert.py Extended.yaml Google.yaml Git.yaml
       working-directory: ./Rules/
     - name: Run shadowrocket convert script
-      run: python $GITHUB_WORKSPACE/Rules/shadowrocket_convert.py.py ./Rules/shadowrocket.yaml Extended.yaml Google.yaml Git.yaml PlayMaker.yaml
+      run: python $GITHUB_WORKSPACE/Rules/shadowrocket_convert.py ./Rules/shadowrocket.yaml Extended.yaml Google.yaml Git.yaml PlayMaker.yaml
       working-directory: ./Rules/
     - name: Commit and push config
       run: |
