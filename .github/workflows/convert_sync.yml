@@ -49,10 +49,8 @@ jobs:
       run: python $GITHUB_WORKSPACE/Rules/singbox_convert.py Extended.yaml Google.yaml Git.yaml
       working-directory: ./Rules/
     - name: Run shadowrocket convert script
-      run: python $GITHUB_WORKSPACE/Rules/shadowrocket_convert.py $GITHUB_WORKSPACE/Rules/shadowrocket.yaml $GITHUB_WORKSPACE/Extended.yaml $GITHUB_WORKSPACE/Google.yaml $GITHUB_WORKSPACE/Git.yaml $GITHUB_WORKSPACE/PlayMaker.yaml
+      run: python $GITHUB_WORKSPACE/Rules/shadowrocket_convert.py $GITHUB_WORKSPACE/Rules/shadowrocket.yaml Extended.yaml Google.yaml Git.yaml PlayMaker.yaml
       working-directory: ./Rules/
-    - name: Run test
-      run: cat /home/runner/work/Clash_Config/Clash_Config/Rules/shadowrocket.yaml
     - name: Commit and push config
       run: |
         git config --global user.email "action@github.com"
