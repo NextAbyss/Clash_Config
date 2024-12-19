@@ -396,6 +396,7 @@ DOMAIN,debian.map.fastlydns.net,PROXY
 DOMAIN-SUFFIX,yuzu-emu.org,PROXY
 DOMAIN-SUFFIX,banzhu123.net,PROXY
 DOMAIN-SUFFIX,tt1069.com,PROXY
+DOMAIN-SUFFIX,myhtebook.com,PROXY
 DOMAIN,open.stealth.si,PROXY
 DOMAIN-SUFFIX,aptoide.com,PROXY
 DOMAIN-SUFFIX,rg-adguard.net,PROXY
