@@ -416,6 +416,7 @@ payload:
 - '+.nodejs.org'
 - '+.debian.org'
 - '+.openwrt.org'
+- '+.immortalwrt.org'
 - '+.golang.org'
 - '+.debian.map.fastlydns.net'
 - '+.yuzu-emu.org'
