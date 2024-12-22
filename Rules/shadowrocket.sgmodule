@@ -391,6 +391,7 @@ DOMAIN-SUFFIX,eternallybored.org,PROXY
 DOMAIN-SUFFIX,nodejs.org,PROXY
 DOMAIN-SUFFIX,debian.org,PROXY
 DOMAIN-SUFFIX,openwrt.org,PROXY
+DOMAIN-SUFFIX,immortalwrt.org,PROXY
 DOMAIN-SUFFIX,golang.org,PROXY
 DOMAIN,debian.map.fastlydns.net,PROXY
 DOMAIN-SUFFIX,yuzu-emu.org,PROXY
