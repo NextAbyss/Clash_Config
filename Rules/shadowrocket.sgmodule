@@ -1016,6 +1016,8 @@ DOMAIN-SUFFIX,thegithubshop.com,PROXY
 DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
 DOMAIN,gitbook.zendesk.com,PROXY
+DOMAIN-SUFFIX,lscr.io,PROXY
+DOMAIN-SUFFIX,docker.io,PROXY
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,instagr.am,PROXY
 DOMAIN-SUFFIX,instagram.com,PROXY
