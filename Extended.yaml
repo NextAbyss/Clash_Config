@@ -1,4 +1,5 @@
 payload:
+- '+.truenas.com' #truenas
 - '+.budman.pw' #iperf3
 - '+.bazzite.gg' #Bazzite OS
 - '+.rathlev-home.de' #scoop innounp
