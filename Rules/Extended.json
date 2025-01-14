@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "truenas.com",
         "budman.pw",
         "bazzite.gg",
         "rathlev-home.de",

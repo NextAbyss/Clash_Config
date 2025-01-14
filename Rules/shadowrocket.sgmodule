@@ -2,6 +2,7 @@
 #!desc=Extened自定义规则
 
 [Rule]
+DOMAIN-SUFFIX,truenas.com,PROXY
 DOMAIN-SUFFIX,budman.pw,PROXY
 DOMAIN-SUFFIX,bazzite.gg,PROXY
 DOMAIN-SUFFIX,rathlev-home.de,PROXY
