@@ -2,6 +2,10 @@
 #!desc=Extened自定义规则
 
 [Rule]
+DOMAIN,safebrowsing.googleapis.com,PROXY
+DOMAIN,www.recaptcha.net,PROXY
+DOMAIN-SUFFIX,amplitude.com,PROXY
+DOMAIN-SUFFIX,mzstatic.com,PROXY
 DOMAIN-SUFFIX,truenas.com,PROXY
 DOMAIN-SUFFIX,budman.pw,PROXY
 DOMAIN-SUFFIX,bazzite.gg,PROXY

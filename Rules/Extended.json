@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "safebrowsing.googleapis.com",
+        "www.recaptcha.net",
+        "amplitude.com",
+        "mzstatic.com",
         "truenas.com",
         "budman.pw",
         "bazzite.gg",
