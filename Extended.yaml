@@ -1,4 +1,8 @@
 payload:
+- '+.safebrowsing.googleapis.com'
+- '+.www.recaptcha.net'
+- '+.amplitude.com' #amplitude
+- '+.mzstatic.com' #isearch
 - '+.truenas.com' #truenas
 - '+.budman.pw' #iperf3
 - '+.bazzite.gg' #Bazzite OS
