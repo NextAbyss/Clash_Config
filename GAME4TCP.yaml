@@ -1,0 +1,42 @@
+# Warframe
+- '+.content.warframe.com'
+- '+.origin.warframe.com'
+- '+.api.warframe.com'
+
+# Bazaar
+- '+.playthebazaar.com'
+- '+.xsolla.com'
+
+# BattleEye
+- '+.battleye.com'
+- '+.battleye.b-cdn.net'
+
+# 命运2
+- '+.gravityshavings.net' #命运2 应该是STUN
+- '+.deadorbit.net' #命运2 应该是STUN
+- '+.bungie.net'
+- '+.playfabapi.com'
+- '+.destinyitemmanager.com'
+
+# Easy Anti-Cheat
+- '+.eac-prod.on.epicgames.com'
+- '+.download.eac-cdn.com'
+- '+.download-alt.easyanticheat.net'
+
+# Apex & EA
+- '+.r5prod.stryder.respawn.com'
+- '+.r5-pc-stats.stryder.respawn.com'
+- '+.respawn.com'
+- '+.r5-pc.s3.amazonaws.com'
+- '+.R5-pc.s3.amazonaws.com'
+- '+.data.ea.com'
+- '+.gateway.ea.com'
+- '+.rtm.tnt-ea.com'
+- '+.signin.ea.com'
+- '+.ea.com'
+
+- '+.login.firaxislive.com' #文明6
+- '+.api.epicgames.dev' #文明6,APEX
+- '+.skk.moe' #本来是Game，现在不知道 后续再做调整
+- '+.ip.sb'
+- '+.zendesk.com'
