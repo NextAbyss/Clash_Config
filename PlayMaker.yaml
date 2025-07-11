@@ -1,4 +1,8 @@
 payload:
+##++Faceit++##
+- '+.faceit.com'
+- '+.znipe.tv'
+##--Faceit--##
 ##++Instagram++##
 - '+.cdninstagram.com'
 - '+.instagr.am'
