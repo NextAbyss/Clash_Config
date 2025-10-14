@@ -25,8 +25,9 @@ payload:
 - '+.download-alt.easyanticheat.net'
 
 # Apex & EA
-- '+.r5prod.stryder.respawn.com'
-- '+.r5-pc-stats.stryder.respawn.com'
+#- '+.r5prod.stryder.respawn.com'
+#- '+.r5-pc-stats.stryder.respawn.com'
+- '+.stryder.respawn.com'
 - '+.respawn.com'
 - '+.r5-pc.s3.amazonaws.com'
 - '+.R5-pc.s3.amazonaws.com'
