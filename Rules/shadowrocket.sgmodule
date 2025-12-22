@@ -2,6 +2,7 @@
 #!desc=Extened自定义规则
 
 [Rule]
+DOMAIN-SUFFIX,poe2db.tw,PROXY
 DOMAIN,safebrowsing.googleapis.com,PROXY
 DOMAIN,www.recaptcha.net,PROXY
 DOMAIN-SUFFIX,amplitude.com,PROXY
