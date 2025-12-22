@@ -1,4 +1,5 @@
 payload:
+- '+.poe2db.tw'
 - '+.safebrowsing.googleapis.com'
 - '+.www.recaptcha.net'
 - '+.amplitude.com' #amplitude
